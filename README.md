@@ -9,4 +9,7 @@ This project was developed by the following team members:
   Student ID: 2215284  
 
 - **Santiago Alejandro Miranda Ortiz**  
-  Student ID: 2210257  
+  Student ID: 2210257
+
+- **Andrés José Urbano Rodríguez**  
+  Student ID: 2186294 
